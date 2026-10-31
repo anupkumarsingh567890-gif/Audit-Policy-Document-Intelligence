@@ -130,6 +130,8 @@ with st.sidebar:
         st.rerun()
 
     st.caption(f"LLM: `{config.GEMINI_MODEL}` · Embeddings: `{config.EMBEDDING_MODEL.split('/')[-1]}` · ChromaDB")
+    st.divider()
+    st.markdown(":material/person: **Created by ANUP KUMAR SINGH**")
 
 # ------------------------------------------------------------------ header
 if config.GEMINI_API_KEY:
@@ -138,6 +140,7 @@ else:
     st.badge("Retrieval only — add GEMINI_API_KEY to .env", icon=":material/warning:", color="orange")
 st.title("Intelligent Document Analysis")
 st.markdown(":gray[Your AI-powered workspace for audit, risk, policy, and compliance intelligence.]")
+st.caption("Built by **ANUP KUMAR SINGH** · [GitHub](https://github.com/anupkumarsingh567890-gif)")
 
 # ------------------------------------------------------------------ KPI cards
 k1, k2, k3 = st.columns(3)
