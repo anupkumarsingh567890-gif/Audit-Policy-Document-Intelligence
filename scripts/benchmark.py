@@ -60,7 +60,7 @@ def main() -> None:
                 print(f"{model:<28}{thinking:<10}{'-':>12}{total:>7.2f} s  FAILED ({reason})")
             time.sleep(4)  # stay under the free-tier per-minute limit
 
-    print("\nSend this output to Claude.")
+print("\nBenchmark complete. Set the fastest working model as GEMINI_MODEL in .env.")
 
 
 if __name__ == "__main__":
