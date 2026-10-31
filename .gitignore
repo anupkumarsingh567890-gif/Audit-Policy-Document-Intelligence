@@ -1,0 +1,23 @@
+# Environment
+.venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Data (documents may be private; vector DB is rebuilt by scripts/ingest.py)
+data/raw/documents/*.pdf
+data/processed/**/*.json
+data/vectorstore/chroma_db/*
+!**/.gitkeep
+
+# Evaluation output
+evaluation/results.csv
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/

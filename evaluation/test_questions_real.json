@@ -1,0 +1,37 @@
+[
+  {"id": 1,  "question": "Which NBFCs do the RBI fraud risk management directions apply to?", "source": "fraud_risk_management.pdf", "pages": [3], "keywords": ["Upper Layer", "Middle Layer", "500 crore"]},
+  {"id": 2,  "question": "How much time must be given to respond to a show cause notice before an account is declared fraud?", "source": "fraud_risk_management.pdf", "pages": [4], "keywords": ["21 days"]},
+  {"id": 3,  "question": "How often must the Board review the fraud risk management policy?", "source": "fraud_risk_management.pdf", "pages": [5], "keywords": ["three years"]},
+  {"id": 4,  "question": "What is the composition of the Special Committee of the Board for Monitoring and Follow-up of cases of Frauds?", "source": "fraud_risk_management.pdf", "pages": [5], "keywords": ["three members", "Independent Director"]},
+  {"id": 5,  "question": "Within how many days must an NBFC file a fraud monitoring report with RBI after classifying an account as fraud?", "source": "fraud_risk_management.pdf", "pages": [12], "keywords": ["14 days"]},
+  {"id": 6,  "question": "Which credit facilities require a periodic legal audit of title documents?", "source": "fraud_risk_management.pdf", "pages": [13], "keywords": ["1 crore"]},
+  {"id": 7,  "question": "By when must NBFCs put an early warning signals system in place?", "source": "fraud_risk_management.pdf", "pages": [8], "keywords": ["six months"]},
+
+  {"id": 8,  "question": "What disbursement methods does the World Bank offer to projects?", "source": "financial_management_policy.pdf", "pages": [23, 24, 27, 28, 29], "keywords": ["advance", "reimburse", "direct payment", "special commitment"]},
+  {"id": 9,  "question": "What is the limit on retroactive financing?", "source": "financial_management_policy.pdf", "pages": [30], "keywords": ["20%", "12 months"]},
+  {"id": 10, "question": "How long is the grace period after the project closing date?", "source": "financial_management_policy.pdf", "pages": [30], "keywords": ["4 months"]},
+  {"id": 11, "question": "When are interim financial reports due?", "source": "financial_management_policy.pdf", "pages": [34], "keywords": ["45 days"]},
+  {"id": 12, "question": "Within how long must audited financial statements be submitted to the Bank?", "source": "financial_management_policy.pdf", "pages": [35], "keywords": ["6 months"]},
+  {"id": 13, "question": "What are the pillars of financial management arrangements in Bank-financed operations?", "source": "financial_management_policy.pdf", "pages": [9, 13], "keywords": ["accounting", "internal control", "budget", "external audit"]},
+
+  {"id": 14, "question": "What is the periodicity of internal audit of DoT field offices?", "source": "internal_audit_manual.pdf", "pages": [19], "keywords": ["one year"]},
+  {"id": 15, "question": "Within how many days must the internal audit report be submitted?", "source": "internal_audit_manual.pdf", "pages": [19], "keywords": ["45 days"]},
+  {"id": 16, "question": "How are internal audit observations graded by severity?", "source": "internal_audit_manual.pdf", "pages": [19], "keywords": ["Critical", "Major", "Moderate", "Minor"]},
+  {"id": 17, "question": "What is risk-based internal audit and why is it used?", "source": "internal_audit_manual.pdf", "pages": [35], "keywords": ["inherent risk"]},
+  {"id": 18, "question": "What actions are required when an audit observation has high impact?", "source": "internal_audit_manual.pdf", "pages": [62], "keywords": ["15 days", "2 months"]},
+
+  {"id": 19, "question": "Under which article of the Constitution is the CAG compliance audit report submitted to the President?", "source": "sample_compliance_audit_report.pdf", "pages": [7, 20], "keywords": ["151"]},
+  {"id": 20, "question": "What GST issue did audit find in the Department of Posts?", "source": "sample_compliance_audit_report.pdf", "pages": [11, 37, 38], "keywords": ["78.92"]},
+  {"id": 21, "question": "How much Customer Acquisition Form penalty did the Department of Telecommunications fail to recover?", "source": "sample_compliance_audit_report.pdf", "pages": [12, 42], "keywords": ["107.07"]},
+  {"id": 22, "question": "What share of BSNL tower land parcels were not registered in BSNL's name?", "source": "sample_compliance_audit_report.pdf", "pages": [16, 94], "keywords": ["36 per cent"]},
+  {"id": 23, "question": "When did the Union Cabinet approve India Post Payments Bank and with what budget?", "source": "sample_compliance_audit_report.pdf", "pages": [81], "keywords": ["June 2016", "800 crore"]},
+  {"id": 24, "question": "What excess payment was made to an e-commerce biller by the Department of Posts?", "source": "sample_compliance_audit_report.pdf", "pages": [11, 38], "keywords": ["1.05 crore"]},
+
+  {"id": 25, "question": "Which listed entities must submit a Business Responsibility and Sustainability Report?", "source": "sebi_compliance_guidelines.pdf", "pages": [24, 25], "keywords": ["top 1000"]},
+  {"id": 26, "question": "What fine does a stock exchange impose for non-compliance with minimum public shareholding requirements?", "source": "sebi_compliance_guidelines.pdf", "pages": [65], "keywords": ["5,000"]},
+  {"id": 27, "question": "Within how many days of quarter end must the statement on redressal of investor grievances be filed?", "source": "sebi_compliance_guidelines.pdf", "pages": [52], "keywords": ["30 days"]},
+  {"id": 28, "question": "To which entities do ESG disclosures for the value chain apply?", "source": "sebi_compliance_guidelines.pdf", "pages": [27], "keywords": ["top 250"]},
+
+  {"id": 29, "question": "What is the work-from-home policy for employees?", "source": null, "pages": null, "keywords": [], "unanswerable": true},
+  {"id": 30, "question": "What was India's GDP growth rate in 2025?", "source": null, "pages": null, "keywords": [], "unanswerable": true}
+]
