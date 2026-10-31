@@ -12,7 +12,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-from src.chatbot.assistant import MODE_RAG, MODE_RETRIEVAL, APDISAssistant  # noqa: E402
+from src.chatbot.assistant import MODE_RAG, MODE_RETRIEVAL, APDISAssistant  # noqa: E40
 
 
 def show(assistant: APDISAssistant, question: str, mode: str, top_k: int) -> None:
